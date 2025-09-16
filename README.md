@@ -1,7 +1,9 @@
+# Multimodal Emotion Recognition
+
 Combines **text** and **facial expression** to predict emotion using:
 
 - Hugging Face Transformers (text)
-- DeepFace + OpenCV (face)
+- DeepFace + OpenCV (facial expression)
 
 ## Setup
 
